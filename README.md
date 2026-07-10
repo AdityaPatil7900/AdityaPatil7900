@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Patil</h1>
 
 <h3 align="center">
-M.S. Artificial Intelligence @ Worcester Polytechnic Institute (Fall 2026)
+
 </h3>
 
 <p align="center">
@@ -28,7 +28,6 @@ AI Research • NLP • LLMs • Machine Learning • Generative AI
 
 ## 🚀 About Me
 
-- 🎓 Incoming **M.S. in Artificial Intelligence** at **Worcester Polytechnic Institute**
 - 📄 Published AI researcher (IEEE TechnoKnockdown 2026 & IJETT)
 - 🤖 Passionate about **NLP, LLMs, RAG, Information Retrieval & Trustworthy AI**
 - 🌱 Currently exploring **Graph Machine Learning** and **Agentic AI**
@@ -72,14 +71,6 @@ AI Research • NLP • LLMs • Machine Learning • Generative AI
 📍 International Journal on Emerging Trends in Technology (IJETT)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaPatil7900&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPatil7900&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
