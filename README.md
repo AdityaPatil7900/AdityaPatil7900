@@ -15,7 +15,7 @@ AI Research • NLP • LLMs • Machine Learning • Generative AI
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/aditya-patil">
+<a href="[https://linkedin.com/in/aditya-patil](https://www.linkedin.com/in/aditya-patil-aj7900/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
